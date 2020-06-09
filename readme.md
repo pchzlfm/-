@@ -3,7 +3,6 @@
 ## 1주차 과제
 
 * 언어분야 : Timekettle사의 "WT2 Plus Language Translator"   
-<img src="https://user-images.githubusercontent.com/66632960/84050592-e522ee80-a9e8-11ea-90e1-43fc2b5f993e.PNG" width="50%">   
  * google과 MS사의 AI기반 번역서비스를 사용   
  * 40개의 언어와 93개의 악센트를 구분하여 번역   
  * 대화 문장을 듣고 50초이내에 번역가능   
